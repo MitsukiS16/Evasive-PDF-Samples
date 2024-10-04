@@ -1,5 +1,7 @@
 .vscode
 .idea
 .ipyn
+.ipynb_checkpoints
+myenv
 __init__
 __pycache__
